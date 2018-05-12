@@ -1,0 +1,28 @@
+_repo: Gipsy-Life--13-Being-an-account-of-our-Gipsies-and-their-children-with-suggestions-for-their-__28548
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28548-h/images/coverb.jpg
+creator:
+  author:
+    agent_name: Smith, George
+    birthdate: 1831
+    deathdate: 1895
+    gutenberg_agent_id: '33394'
+    url: http://www.gutenberg.org/2009/agents/33394
+description: ''
+gutenberg_issued: '2009-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28548'
+  lccn: '62055928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DX'
+- !lcsh 'Romanies -- Great Britain'
+title: "Gipsy Life\r\nBeing an account of our Gipsies and their children, with suggestions\
+  \ for their improvement"
+url: http://www.gutenberg.org/ebooks/28548
