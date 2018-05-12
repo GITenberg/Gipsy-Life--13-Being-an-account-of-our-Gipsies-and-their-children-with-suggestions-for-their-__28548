@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33394'
     url: http://www.gutenberg.org/2009/agents/33394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28548#Gipsy-Life--13-Being-an-account-of-our-Gipsies-and-their-children-with-suggestions-for-their-_
 gutenberg_issued: '2009-04-09'
 gutenberg_type: Text
 identifiers:
